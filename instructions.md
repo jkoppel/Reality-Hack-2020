@@ -1,4 +1,4 @@
-## Panopticon: We Never Turn Back
+## Panopticon: Never Turn Back
 
 Panopticon uses AR to put eyes on the back of your head --- or rather, your car.
 
